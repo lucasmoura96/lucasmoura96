@@ -9,8 +9,6 @@
 ![Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmoura96&show_icons=true&theme=dark)
 
 
-Em migração de carreira, atualmente estou cursando ADS pela UNICSUL e buscando certificações paralelas.
-
 ## Tecnologias que estou aprendendo
 
 <div style="display: inline_block"><br/>
